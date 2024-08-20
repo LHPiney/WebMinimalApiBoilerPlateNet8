@@ -1,0 +1,11 @@
+@WebApiBoilerPlateNet8Aot_HostAddress = http://localhost:5089
+
+GET {{WebApiBoilerPlateNet8Aot_HostAddress}}/forecast/
+Accept: application/json
+
+###
+
+GET {{WebApiBoilerPlateNet8Aot_HostAddress}}/forecast/1
+Accept: application/json
+
+###
